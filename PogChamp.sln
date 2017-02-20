@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PogChamp", "PogChamp\PogChamp.csproj", "{A4A0F0A4-B742-45DC-B5AF-AD1C0E99EEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PogChamp.Tests", "PogChamp.Tests\PogChamp.Tests.csproj", "{6D408387-E102-4BAD-A883-5C6624733C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A0F0A4-B742-45DC-B5AF-AD1C0E99EEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A0F0A4-B742-45DC-B5AF-AD1C0E99EEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A0F0A4-B742-45DC-B5AF-AD1C0E99EEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A0F0A4-B742-45DC-B5AF-AD1C0E99EEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D408387-E102-4BAD-A883-5C6624733C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D408387-E102-4BAD-A883-5C6624733C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D408387-E102-4BAD-A883-5C6624733C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D408387-E102-4BAD-A883-5C6624733C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
